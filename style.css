@@ -1,0 +1,55 @@
+.flex-container {
+    display: flex;
+    width:100%;
+}
+
+.header {
+    display: flex;
+    background-color: #303030;
+    color: white;
+    margin: 2px;
+    padding: 10px;
+    height: 50px;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 500px
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 500px;
+}
+.nav {
+    background-color: #303030;
+    color: white;
+    height: 60%;
+    margin: 2px;
+    padding: 10px;
+}
+.ads {
+    background-color: #303030;
+    color: white;
+    height: 40%;
+    margin: 2px;
+    padding: 10px;
+}
+.article {
+    background-color: #303030;
+    color: white;
+    height: 85%;
+    margin: 2px;
+    padding: 10px;
+}
+.footer {
+    background-color: #303030;
+    color: white;
+    height: 15%;
+    margin: 2px;
+    padding: 10px;
+}
